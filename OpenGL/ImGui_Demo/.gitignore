@@ -1,0 +1,17 @@
+# ignore below files
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
