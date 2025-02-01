@@ -1,0 +1,121 @@
+Found number of FBConfigs are 24
+VisualInfo = 0x33 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x1650 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x1768 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x1770 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x1682 found SampleBuffers = 1 and samples = 2
+VisualInfo = 0x1685 found SampleBuffers = 1 and samples = 2
+VisualInfo = 0x1802 found SampleBuffers = 1 and samples = 2
+VisualInfo = 0x1805 found SampleBuffers = 1 and samples = 2
+VisualInfo = 0x1683 found SampleBuffers = 1 and samples = 4
+VisualInfo = 0x1686 found SampleBuffers = 1 and samples = 4
+VisualInfo = 0x1803 found SampleBuffers = 1 and samples = 4
+VisualInfo = 0x1806 found SampleBuffers = 1 and samples = 4
+VisualInfo = 0x1684 found SampleBuffers = 1 and samples = 8
+VisualInfo = 0x1687 found SampleBuffers = 1 and samples = 8
+VisualInfo = 0x1804 found SampleBuffers = 1 and samples = 8
+VisualInfo = 0x1807 found SampleBuffers = 1 and samples = 8
+VisualInfo = 0x1649 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x1651 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x1769 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x1771 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x524 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x2117 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x2128 found SampleBuffers = 0 and samples = 0
+VisualInfo = 0x2129 found SampleBuffers = 0 and samples = 0
+visualId of bestVisualInfo is 0x1684
+Found the Support to 4.5 version
+Direct Rendering i.e. H.W. rendering supported
+OpenGL Vendor : AMD
+OpenGL Renderer : AMD Radeon Graphics (renoir, LLVM 15.0.6, DRM 3.49, 6.1.0-28-amd64)
+OpenGL version : 4.6 (Core Profile) Mesa 22.3.6
+GLSL version : 4.60
+Number Of Supported Extension : 233
+GL_AMD_conservative_depth
+GL_AMD_depth_clamp_separate
+GL_AMD_draw_buffers_blend
+GL_AMD_framebuffer_multisample_advanced
+GL_AMD_gpu_shader_int64
+GL_AMD_multi_draw_indirect
+GL_AMD_performance_monitor
+GL_AMD_pinned_memory
+GL_AMD_query_buffer_object
+GL_AMD_seamless_cubemap_per_texture
+GL_AMD_shader_stencil_export
+GL_AMD_shader_trinary_minmax
+GL_AMD_texture_texture4
+GL_AMD_vertex_shader_layer
+GL_AMD_vertex_shader_viewport_index
+GL_ANGLE_texture_compression_dxt3
+GL_ANGLE_texture_compression_dxt5
+GL_ARB_ES2_compatibility
+GL_ARB_ES3_1_compatibility
+GL_ARB_ES3_2_compatibility
+GL_ARB_ES3_compatibility
+GL_ARB_arrays_of_arrays
+GL_ARB_base_instance
+GL_ARB_bindless_texture
+GL_ARB_blend_func_extended
+GL_ARB_buffer_storage
+GL_ARB_clear_buffer_object
+GL_ARB_clear_texture
+GL_ARB_clip_control
+GL_ARB_color_buffer_float
+GL_ARB_compressed_texture_pixel_storage
+GL_ARB_compute_shader
+GL_ARB_compute_variable_group_size
+GL_ARB_conditional_render_inverted
+GL_ARB_conservative_depth
+GL_ARB_copy_buffer
+GL_ARB_copy_image
+GL_ARB_cull_distance
+GL_ARB_debug_output
+GL_ARB_depth_buffer_float
+GL_ARB_depth_clamp
+GL_ARB_derivative_control
+GL_ARB_direct_state_access
+GL_ARB_draw_buffers
+GL_ARB_draw_buffers_blend
+GL_ARB_draw_elements_base_vertex
+GL_ARB_draw_indirect
+GL_ARB_draw_instanced
+GL_ARB_enhanced_layouts
+GL_ARB_explicit_attrib_location
+GL_ARB_explicit_uniform_location
+GL_ARB_fragment_coord_conventions
+GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_shader
+GL_ARB_framebuffer_no_attachments
+GL_ARB_framebuffer_object
+GL_ARB_framebuffer_sRGB
+GL_ARB_get_program_binary
+GL_ARB_get_texture_sub_image
+GL_ARB_gl_spirv
+GL_ARB_gpu_shader5
+GL_ARB_gpu_shader_fp64
+GL_ARB_gpu_shader_int64
+GL_ARB_half_float_pixel
+GL_ARB_half_float_vertex
+GL_ARB_indirect_parameters
+GL_ARB_instanced_arrays
+GL_ARB_internalformat_query
+GL_ARB_internalformat_query2
+GL_ARB_invalidate_subdata
+GL_ARB_map_buffer_alignment
+GL_ARB_map_buffer_range
+GL_ARB_multi_bind
+GL_ARB_multi_draw_indirect
+GL_ARB_occlusion_query2
+GL_ARB_parallel_shader_compile
+GL_ARB_pipeline_statistics_query
+GL_ARB_pixel_buffer_object
+GL_ARB_point_sprite
+GL_ARB_polygon_offset_clamp
+GL_ARB_program_interface_query
+GL_ARB_provoking_vertex
+GL_ARB_query_buffer_object
+GL_ARB_robust_buffer_access_behavior
+GL_ARB_robustness
+GL_ARB_sample_shading
+GL_ARB_sampler_objects
+GL_ARB_se
