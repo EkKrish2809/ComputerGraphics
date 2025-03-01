@@ -1,0 +1,33 @@
+# Ignore binary files
+*.exe
+*.o
+*.obj
+*.out
+
+# Ignore build directories
+/bin/
+/bin/linux/
+/bin/win32/
+
+# Ignore logs
+/logs/
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled shaders
+# *.spv
+# *.glsl
+# *.shader
+
+# Ignore imgui configuration
+imgui.ini
