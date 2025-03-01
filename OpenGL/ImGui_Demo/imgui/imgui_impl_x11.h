@@ -1,3 +1,8 @@
+/*
+    refrance for imgui in linux: https://github.com/Nemirtingas/imgui/blob/076d7cf64e835940444046b5e03bb6ecd58365c7/examples/example_x11_opengl3/main.cpp
+
+*/
+
 // dear imgui: Platform Binding for Linux (standard X11 API for 32 and 64 bits applications)
 // This needs to be used along with a Renderer (e.g. OpenGL3, Vulkan..)
 
@@ -25,3 +30,6 @@ IMGUI_IMPL_API bool     ImGui_ImplX11_NewFrame();
 #if 0
 extern IMGUI_IMPL_API int ImGui_ImplX11_EventHandler(XEvent &event, XEvent *next_event);
 #endif
+
+
+
